@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: PERSPECTIVE
-datePublished: '2016-04-18T14:09:28.133Z'
-dateModified: '2016-04-18T14:09:06.932Z'
+datePublished: '2016-04-18T14:11:51.943Z'
+dateModified: '2016-04-18T14:09:34.462Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-perspective.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-perspective.md
-published: true
 url: perspective/index.html
 _type: Article
 
