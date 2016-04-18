@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[We All Bleed]]></title>
         <description><![CDATA[We All Bleed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/we-all-bleed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 14:09:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 14:12:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/we-all-bleed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d78db43-35e3-48da-9b0f-d78a6c682827.jpg">]]></description>
-            <link>undefinedperspective/index.html</link>
+            <link>https://thegrid.ai/we-all-bleed/perspective/index.html</link>
             <guid isPermaLink="false">e270b22d-a4d7-4333-8d3e-f62d6af908c5</guid>
-            <pubDate>Mon, 18 Apr 2016 14:09:28 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 14:11:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
